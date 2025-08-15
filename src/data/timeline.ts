@@ -2,7 +2,13 @@ import { TimelineItem } from '../types';
 
 
 export const timelineData: TimelineItem[] = [
-
+  {
+    year: '2025',
+    title: 'Software Database Engineer Intern',
+    company: 'Harris County',
+    description: 'Developing and maintaining database systems for efficient data management',
+    icon: 'work'
+  },
   {
     year: '2024 - 2025',
     title: 'Masters in Data Science',
